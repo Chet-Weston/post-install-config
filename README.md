@@ -64,7 +64,7 @@ To do this, navigate to the "Admin panel" (Manage --> SLA --> Add new SLA). Add 
 <br /> Sev-C: Grace Period: 8 Hrs, Schedule: Business Hours)
 <br /> The last thing for this lab to be done is "Configuring Help Topics" (For when users create tickets), (Admin Panel --> Manage --> Help Topics --> Add New Help Topic). Create the following Help Topics 
 <br /> Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset & Other.
-<br /> With those steps being completed, now we have a baseline for our Helpdesk to operate. We have added Roles, Departments & Teams to handle any request that Users would have submitted tickets for, as well as having the SLA & Help Topics to make sure that the tickets that are submitted are done in an appropriate amount of time and prioritized correctly.
-  
+<h3>With those steps being completed, now we have a baseline for our Helpdesk to operate!</h3>  
+<br /> We have added Roles, Departments & Teams to handle any request that Users would have submitted tickets for, as well as having the SLA & Help Topics to make sure that the tickets that are submitted are done in an appropriate amount of time and prioritized correctly.
 </p>
 <br />
